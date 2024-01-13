@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lakshaytewari
-- 👀 I’m interested in python and machine learning
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in python, machine learning & javascript
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate with start-ups and projects where learning oppotunity is high
 - 📫 I could be messaged at lakshaytewari@gmail.com
 
